@@ -1,16 +1,10 @@
 #!/usr/bin/python
 
-#from apiclient.discovery import build
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from oauth2client.tools import argparser
 
 from module import make
-
-import json
-from urllib.parse import urlencode
-from urllib.request import urlopen
-
 
 # Set DEVELOPER_KEY to the API key value from the APIs & auth > Registered apps
 # tab of
