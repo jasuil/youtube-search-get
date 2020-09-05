@@ -2,4 +2,4 @@
 make mp3 from youtube search api
 
 ## more information
-https://blog.naver.com/jasuil?Redirect=Write&categoryNo=42
+https://blog.naver.com/jasuil/222000817098
